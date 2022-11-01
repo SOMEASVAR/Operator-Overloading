@@ -3,7 +3,7 @@
 ## Aim:
  To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
  
- ##Algorithm:
+ ## Algorithm:
  ## Step 1:
  Create a class for operator overloading.
 
@@ -21,7 +21,7 @@ Print the result.
  
  
  
- ##Program:
+ ## Program:
  ```
  using System;
 
@@ -68,11 +68,11 @@ namespace OperOverload
  ```
  
  
- ##Output:
+ ## Output:
  ![operator over loaded](https://user-images.githubusercontent.com/93434149/199153988-aee390b5-28f6-4526-bf14-3349b16df950.jpg)
 
  
  
- ##Result:
+ ## Result:
  Thus to write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading is successfully completed.
  
